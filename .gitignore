@@ -1,0 +1,45 @@
+# Eclipse, IntelliJ IDEA, and other IDEs
+*.iml
+*.classpath
+*.project
+*.settings/
+.idea/
+*.swp
+
+# Build directories
+target/
+build/
+
+# Dependency directories
+.gradle/
+mvnrepository/
+
+# Spring Boot specific files
+spring-boot-devtools/
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Package distribution
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+settings.xml
+dependency-reduced-pom.xml
